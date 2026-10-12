@@ -5,19 +5,19 @@ This mod makes it matter. Where you put the marker decides how your character fi
 
 ```
                         TOP — muscular
-                        hits deal +50% damage
+                        hits deal +100% damage
                                │
    LEFT — skinny               │                RIGHT — fat
-   +50% attack speed    ───  centre  ───        ×1.5 health
+   +100% attack speed    ───  centre  ───        ×2 health
                                │                (normal)
                                │
                   BOTTOM — muscular lean
-                  +25% damage, +25% attack speed
+                  +50% damage, +50% attack speed
 ```
 
 * The **exact centre** of the box is "normal" – no bonus at all.
 * Everything in between **blends smoothly**. The corners are an even mix of the two neighbouring edges
-  (top-left = +25% damage and +25% attack speed, top-right = +25% damage and ×1.25 health, …).
+  (top-left = +50% damage and +50% attack speed, top-right = +50% damage and ×1.50 health, …).
 * **Every number is yours to change** – see [Changing the numbers](#changing-the-numbers).
 
 ---
