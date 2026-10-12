@@ -1,4 +1,4 @@
-# Exanima – Build Matters
+# Exanima – Physique-matters
 
 In vanilla Exanima the **Physique** box on the character-creation screen is purely cosmetic.
 This mod makes it matter. Where you put the marker decides how your character fights:
