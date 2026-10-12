@@ -56,9 +56,9 @@ need to restore first). The numbers are *multipliers*: `1.0` = no change, `1.5` 
 
 ```ini
 [build]
-muscular_damage            = 1.5     ; TOP:    your hits deal this much damage
-muscular_lean_damage       = 1.25    ; BOTTOM: ... and this much
-muscular_lean_attack_speed = 1.25    ; BOTTOM: attack animations play this much faster
+muscular_damage            = 2     ; TOP:    your hits deal this much damage
+muscular_lean_damage       = 1.50    ; BOTTOM: ... and this much
+muscular_lean_attack_speed = 1.50    ; BOTTOM: attack animations play this much faster
 skinny_attack_speed        = 1.5     ; LEFT:   ... and this much
 fat_health                 = 1.5     ; RIGHT:  damage you take is divided by this
 
